@@ -1,3 +1,25 @@
+
+
+This is a graph of total deliquent customers.
+![diagram](images/usBarGraph.png)
+
+This is a map of the United States.<br>
+States that have deliquent customers are not black.<br>
+Only these states can be clickled on.
+![diagram](images/mapOfUs.png)
+
+Once a user clicks on a state the graph changes to the information about that state.<br>
+In this case it is the deliquent customers in California
+![diagram](images/GraphCa.png)
+
+When you hover over one of the bars, there is a tool tip that shows you how <br>
+many customer are deliquent during that periond and the average amount they are deliquent by.
+![diagram](images/graphWithTooltip.png)
+
+Here is an image of what this looks like in an iPad.
+![diagram](images/ipadView.png)
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
